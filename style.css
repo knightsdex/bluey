@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Hello-Headline";
-  src: url("./assets/Hello-Headline.ttf") format("truetype");
+  src: url("./assets//Hello-Headline.ttf") format("truetype");
 }
 
 :root {
